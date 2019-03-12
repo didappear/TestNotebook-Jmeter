@@ -5,3 +5,4 @@
 
 ## 02-JMeter内部原理					
 [02-JMeter内部原理](https://github.com/didappear/TestNotebook-Jmeter/blob/master/Jmeter/JMeter02-JMeter-NeiBuYuanLi.md)					
+
