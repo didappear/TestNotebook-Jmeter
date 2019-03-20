@@ -81,6 +81,7 @@ JMeter中一个脚本，就是一个测试计划，也是一个管理单元。JM
 - extras：JMeter辅助功能，提供与Ant、Jenkins提成的可能性，用来构建性能测试自动化框架；
 - lib：JMeter组件以Jar包的形式放置在lib/ext目录下，如果要扩展JMeter组件，Jar包就放在此目录下，JMeter启动时会加载此目录下的Jar包；
 - printable_docs：放置JMeter的离线帮助文件，可用来学习JMeter；
+- backups：操作过程中自动保存的一些脚本
 
 ### 5、小结
 
